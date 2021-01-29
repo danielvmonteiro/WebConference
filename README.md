@@ -1,2 +1,2 @@
 # WebConference
-Testes
+Aplicação web para uma Conferência
